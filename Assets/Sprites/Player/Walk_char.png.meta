@@ -4,7 +4,7 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -7514518056986778387
-    second: Walk_char_0
+    second: Walk_char_
   - first:
       213: 736083137635466550
     second: Walk_char_1
@@ -25,7 +25,7 @@ TextureImporter:
     second: Walk_char_6
   - first:
       213: -6132622648302690128
-    second: Walk_char_7
+    second: Walk_char_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,15 +115,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walk_char_0
+      name: Walk_char_
       rect:
         serializedVersion: 2
         x: 286
         y: 2239
         width: 774
-        height: 962
+        height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -140,11 +140,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1407
-        y: 2270
-        width: 770
-        height: 931
+        y: 2239
+        width: 774
+        height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -162,10 +162,10 @@ TextureImporter:
         serializedVersion: 2
         x: 2526
         y: 2239
-        width: 772
-        height: 963
+        width: 774
+        height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -183,10 +183,10 @@ TextureImporter:
         serializedVersion: 2
         x: 286
         y: 1118
-        width: 771
+        width: 774
         height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -204,10 +204,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1407
         y: 1118
-        width: 771
+        width: 774
         height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -225,10 +225,10 @@ TextureImporter:
         serializedVersion: 2
         x: 2526
         y: 1118
-        width: 772
+        width: 774
         height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -246,10 +246,10 @@ TextureImporter:
         serializedVersion: 2
         x: 286
         y: 0
-        width: 771
-        height: 962
+        width: 774
+        height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -262,15 +262,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_char_7
+      name: Walk_char_8
       rect:
         serializedVersion: 2
         x: 1407
         y: 0
-        width: 771
-        height: 929
+        width: 774
+        height: 965
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
